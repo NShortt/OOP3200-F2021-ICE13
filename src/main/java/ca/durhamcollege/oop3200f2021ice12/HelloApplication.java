@@ -1,3 +1,8 @@
+/**
+ * @author Nicholas Shortt
+ * @studentID 100630003
+ * @date December 08, 2021
+ */
 package ca.durhamcollege.oop3200f2021ice12;
 
 import javafx.application.Application;
